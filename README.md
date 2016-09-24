@@ -16,8 +16,9 @@ and delete sections as they pertain to your game’s design.\]
 
 I.  **Game Overview **
 
-    *(ensure you mention the goal of the game and how to win
-    if applicable)*
+    *Mail Pilot is a retro top-scrolling shooter game. The main game
+    features the player’s plane flying over an ocean. The plane must
+    avoid the killer clouds and pickup mail from the islands.*
 
 II. **Game Play Mechanics**
 
